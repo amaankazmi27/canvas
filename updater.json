@@ -1,3 +1,6 @@
-["amaan_kazmii" ,
-"seemakanyal__x" ,
-"instacanvas._"]
+{
+	"version": "5.0",
+	"changelog": "— Migration to Instagram version 232.0.0.16.114;\n— Added Monet color scheme support for Android 12+;\n— Added Animated Splash for Android 12+;\n— Added Themed Icon for Android 13+;\n— Added In-App Lock (Beta);\n— Added 60 second stories;\n— Added Developer Mode decoder (MobileConfig);\n— Added new Instander Sans font (Latin, Cyrillic, Thai, Tamil, Persians support);\n— Added download button to the three dots menu;\n— Added hide \"Download feed button\";\n— Added selective biography in profile;\n— Redesigned Instander menu.;\n— Redesigned all dialogs;\n— Redesigned of all toast messages.;\n— Fixed Auto OTA feature. Now the progress dialog is not displayed when you open the application;\n— Added Spanish language (Thanks @dpatrongomez);\n— Reorganization of almost all my code.",
+	"changelog-ru": "— Миграция на версию Instagram 242.0.0.16. 114;\n— Добавлена поддержка цветовой схемы Monet для Android 12+;\n— Добавлен анимированный сплэш для Android 12+;\n— Добавлен тематический значок для Android 13+;\n— Добавлен In-App Lock (Beta);\n— Добавлены 60 секундные сторис;\n— Добавлен декодер Developer Mode (MobileConfig); \n— Добавлен новый шрифт Instander Sans (поддержка латиницы, кириллицы, тайского, тамильского, персидского языков);\n— Добавлена кнопка загрузки в меню трех точек;\n— Добавлено скрытие \"Кнопки загрузки\";\n— Переработано меню Instander. \n— Переработаны все диалоги;\n— Переработаны все тосты;\n— Исправлена функция Auto OTA. Теперь диалог прогресса не отображается при открытии приложения;\n— Добавлен испанский язык (Спасибо @dpatrongomez);\n— Реорганизация почти всего моего кода.",
+	"link": "https://amaankazmi123.wixsite.com/instagrambyamu"
+}
