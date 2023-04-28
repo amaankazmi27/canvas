@@ -1,6 +1,6 @@
 {
-	"version": "17.0",
-	"changelog": "— Migration to Instagram version 232.0.0.16.114\n— Added Monet color scheme for Android 12\n— Added In-App Lock\n— Added 60 second stories\n— Added Developer Mode decoder\n— Added selective biography in profile\n— Redesigned Instagram UI\n made by Amaan kazmi :))",
-	"changelog-ru": "— Migration to Instagram version 232.0.0.16.114\n— Added Monet color scheme for Android 12\n— Added In-App Lock\n— Added 60 second stories\n— Added Developer Mode decoder\n— Added selective biography in profile\n— Redesigned Instagram UI\n made by Amaan kazmi :))",
+	"version": "17.3",
+	"changelog": "â€” Added Monet theme for Android 12+;\nâ€” Added disabling the Monet theme;\nâ€” Fixed Feed loading on some devices;\nâ€” Fixed Reels download button;\nâ€” Fixed Alte & Hoefler New fonts;\nâ€” Raised the target SDK to 33.",
+	"changelog-ru": "â€” Added Monet theme for Android 12+;\nâ€” Added disabling the Monet theme;\nâ€” Fixed Feed loading on some devices;\nâ€” Fixed Reels download button;\nâ€” Fixed Alte & Hoefler New fonts;\nâ€” Raised the target SDK to 33.",
 	"link": "https://amaankazmi123.wixsite.com/instagrambyamu"
 }
